@@ -16,19 +16,7 @@ Passionate **Software Developer & QA Automation Engineer** focused on building r
 - **DevOps & Tools:** Git, GitHub Actions, Maven, Linux/Unix
 - **Databases:** MySQL, MariaDB
 
----
 
-### 📌 Featured Projects
-
-- **[Real-Time API Health Checker & Monitor](https://github.com/your-username/repo-name)**
-  * High-concurrency CLI tool written in **Go**, leveraging Goroutines and buffered Channels for non-blocking HTTP probe requests, reducing total polling latency by 60%+.
-  * Implemented structured JSON configuration loaders and real-time metric/latency logging.
-
-- **[E-Commerce Web Automation Suite](https://github.com/your-username/repo-name)**
-  * Enterprise-grade UI test automation framework built with **Java** and **Selenium WebDriver** using the Page Object Model (POM) pattern.
-  * Integrated **TestNG** data-driven test execution, robust explicit waits, and automated HTML test execution reports.
-
----
 
 ### 📬 Connect With Me
 
